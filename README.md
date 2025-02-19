@@ -104,7 +104,6 @@ The platform provides real-time collaboration tools for product teams, streamlin
 3. Install Dependencies: Run the installation script for your system.
 
 4. Launch AI2Design: Start using AI-powered design insights to refine your product development workflow.
-========================================================================================================
 
 ## System Requirements
 
