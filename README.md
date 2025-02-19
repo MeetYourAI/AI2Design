@@ -40,7 +40,11 @@
 
 ## Introduction
 
-AI2Design is an AI-powered product design assistant that enhances creativity, efficiency, and collaboration in product development. It is designed for industrial designers, UX/UI professionals, and product engineers, offering AI-driven concept generation, material recommendations, ergonomic analysis, 3D prototyping, and market insights. By integrating machine learning, generative AI, and real-time collaboration tools, AI2Design helps users streamline the ideation and design process, improving the speed and precision of product development.
+AI2Design is an AI-powered product design assistant that enhances creativity, efficiency, and collaboration in product development. 
+
+It is designed for industrial designers, UX/UI professionals, and product engineers, offering AI-driven concept generation, material recommendations, ergonomic analysis, 3D prototyping, and market insights. 
+
+By integrating machine learning, generative AI, and real-time collaboration tools, AI2Design helps users streamline the ideation and design process, improving the speed and precision of product development.
 
 ## User Story
 
