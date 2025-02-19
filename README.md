@@ -40,11 +40,21 @@
 
 ## Introduction
 
-AI2Design is an AI-powered product design assistant that enhances creativity, efficiency, and collaboration in product development. It is designed for industrial designers, UX/UI professionals, and product engineers, offering AI-driven concept generation, material recommendations, ergonomic analysis, 3D prototyping, and market insights.By integrating machine learning, generative AI, and real-time collaboration tools, AI2Design helps users streamline the ideation and design process, improving the speed and precision of product development.
+AI2Design is an AI-powered product design assistant that enhances creativity, efficiency, and collaboration in product development. It is designed for industrial designers, UX/UI professionals, and product engineers, offering AI-driven concept generation, material recommendations, ergonomic analysis, 3D prototyping, and market insights. By integrating machine learning, generative AI, and real-time collaboration tools, AI2Design helps users streamline the ideation and design process, improving the speed and precision of product development.
 
 ## User Story
 
-AI2Design was created to solve the inefficiencies in product design workflows.🚀 _As a product designer, I struggle with iterating design concepts quickly. I need an AI assistant that can generate initial design ideas, refine them based on feedback, and help me visualize them in 3D._📐 _As a UX/UI professional, I want AI-driven insights on accessibility, user experience, and ergonomic data to make my designs more user-friendly._🌍 _As a sustainability-conscious developer, I need a tool that recommends eco-friendly materials and sustainable sourcing options._🔍 _As a business owner, I want real-time market insights to ensure that my product aligns with industry trends and consumer demands._With AI2Design, users bridge the gap between ideation, prototyping, and market validation, making the product development process faster, smarter, and more sustainable.
+AI2Design was created to solve the inefficiencies in product design workflows. 
+
+As a product designer, I struggle with iterating design concepts quickly. I need an AI assistant that can generate initial design ideas, refine them based on feedback, and help me visualize them in 3D.
+
+As a UX/UI professional, I want AI-driven insights on accessibility, user experience, and ergonomic data to make my designs more user-friendly.
+
+As a sustainability-conscious developer, I need a tool that recommends eco-friendly materials and sustainable sourcing options.
+
+As a business owner, I want real-time market insights to ensure that my product aligns with industry trends and consumer demand. 
+
+With AI2Design, users bridge the gap between ideation, prototyping, and market validation, making the product development process faster, smarter, and more sustainable.
 
 ### Development Objectives
 
